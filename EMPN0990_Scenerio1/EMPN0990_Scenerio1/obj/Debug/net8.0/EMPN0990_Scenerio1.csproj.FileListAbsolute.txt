@@ -12,3 +12,4 @@ C:\Users\v-lnutanmay\Desktop\FrontEnd\assignment4-fe\EMPN0990_Scenerio1\EMPN0990
 C:\Users\v-lnutanmay\Desktop\FrontEnd\assignment4-fe\EMPN0990_Scenerio1\EMPN0990_Scenerio1\obj\Debug\net8.0\EMPN0990_Scenerio1.pdb
 C:\Users\v-lnutanmay\Desktop\FrontEnd\assignment4-fe\EMPN0990_Scenerio1\EMPN0990_Scenerio1\obj\Debug\net8.0\EMPN0990_Scenerio1.genruntimeconfig.cache
 C:\Users\v-lnutanmay\Desktop\FrontEnd\assignment4-fe\EMPN0990_Scenerio1\EMPN0990_Scenerio1\obj\Debug\net8.0\ref\EMPN0990_Scenerio1.dll
+C:\Users\v-lnutanmay\Desktop\FrontEnd\assignment4-fe\EMPN0990_Scenerio1\EMPN0990_Scenerio1\obj\Debug\net8.0\EMPN0990_Scenerio1.sourcelink.json

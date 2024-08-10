@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EMPN0990_Scenerio1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c740be600727897ace2f24ca58f2df4d1bf929bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("EMPN0990_Scenerio1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EMPN0990_Scenerio1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
