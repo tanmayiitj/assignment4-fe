@@ -1,0 +1,14 @@
+C:\Users\v-lnutanmay\Desktop\FrontEnd\assignment4-fe\EMPN0990_Scenerio1\EMPN0990_Scenerio1\bin\Debug\net8.0\EMPN0990_Scenerio1.exe
+C:\Users\v-lnutanmay\Desktop\FrontEnd\assignment4-fe\EMPN0990_Scenerio1\EMPN0990_Scenerio1\bin\Debug\net8.0\EMPN0990_Scenerio1.deps.json
+C:\Users\v-lnutanmay\Desktop\FrontEnd\assignment4-fe\EMPN0990_Scenerio1\EMPN0990_Scenerio1\bin\Debug\net8.0\EMPN0990_Scenerio1.runtimeconfig.json
+C:\Users\v-lnutanmay\Desktop\FrontEnd\assignment4-fe\EMPN0990_Scenerio1\EMPN0990_Scenerio1\bin\Debug\net8.0\EMPN0990_Scenerio1.dll
+C:\Users\v-lnutanmay\Desktop\FrontEnd\assignment4-fe\EMPN0990_Scenerio1\EMPN0990_Scenerio1\bin\Debug\net8.0\EMPN0990_Scenerio1.pdb
+C:\Users\v-lnutanmay\Desktop\FrontEnd\assignment4-fe\EMPN0990_Scenerio1\EMPN0990_Scenerio1\obj\Debug\net8.0\EMPN0990_Scenerio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-lnutanmay\Desktop\FrontEnd\assignment4-fe\EMPN0990_Scenerio1\EMPN0990_Scenerio1\obj\Debug\net8.0\EMPN0990_Scenerio1.AssemblyInfoInputs.cache
+C:\Users\v-lnutanmay\Desktop\FrontEnd\assignment4-fe\EMPN0990_Scenerio1\EMPN0990_Scenerio1\obj\Debug\net8.0\EMPN0990_Scenerio1.AssemblyInfo.cs
+C:\Users\v-lnutanmay\Desktop\FrontEnd\assignment4-fe\EMPN0990_Scenerio1\EMPN0990_Scenerio1\obj\Debug\net8.0\EMPN0990_Scenerio1.csproj.CoreCompileInputs.cache
+C:\Users\v-lnutanmay\Desktop\FrontEnd\assignment4-fe\EMPN0990_Scenerio1\EMPN0990_Scenerio1\obj\Debug\net8.0\EMPN0990_Scenerio1.dll
+C:\Users\v-lnutanmay\Desktop\FrontEnd\assignment4-fe\EMPN0990_Scenerio1\EMPN0990_Scenerio1\obj\Debug\net8.0\refint\EMPN0990_Scenerio1.dll
+C:\Users\v-lnutanmay\Desktop\FrontEnd\assignment4-fe\EMPN0990_Scenerio1\EMPN0990_Scenerio1\obj\Debug\net8.0\EMPN0990_Scenerio1.pdb
+C:\Users\v-lnutanmay\Desktop\FrontEnd\assignment4-fe\EMPN0990_Scenerio1\EMPN0990_Scenerio1\obj\Debug\net8.0\EMPN0990_Scenerio1.genruntimeconfig.cache
+C:\Users\v-lnutanmay\Desktop\FrontEnd\assignment4-fe\EMPN0990_Scenerio1\EMPN0990_Scenerio1\obj\Debug\net8.0\ref\EMPN0990_Scenerio1.dll
