@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\v-lnutanmay\\.nuget\\packages\\": {}
+    "C:\\Users\\Tanmay\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\v-lnutanmay\\Desktop\\FrontEnd\\assignment4-fe\\EMPN0990_Scenerio1\\EMPN0990_Scenerio1\\EMPN0990_Scenerio1.csproj",
+      "projectUniqueName": "D:\\assignment 4\\assignment4-fe\\EMPN0990_Scenerio1\\EMPN0990_Scenerio1\\EMPN0990_Scenerio1.csproj",
       "projectName": "EMPN0990_Scenerio1",
-      "projectPath": "C:\\Users\\v-lnutanmay\\Desktop\\FrontEnd\\assignment4-fe\\EMPN0990_Scenerio1\\EMPN0990_Scenerio1\\EMPN0990_Scenerio1.csproj",
-      "packagesPath": "C:\\Users\\v-lnutanmay\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\v-lnutanmay\\Desktop\\FrontEnd\\assignment4-fe\\EMPN0990_Scenerio1\\EMPN0990_Scenerio1\\obj\\",
+      "projectPath": "D:\\assignment 4\\assignment4-fe\\EMPN0990_Scenerio1\\EMPN0990_Scenerio1\\EMPN0990_Scenerio1.csproj",
+      "packagesPath": "C:\\Users\\Tanmay\\.nuget\\packages\\",
+      "outputPath": "D:\\assignment 4\\assignment4-fe\\EMPN0990_Scenerio1\\EMPN0990_Scenerio1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\v-lnutanmay\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Tanmay\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"

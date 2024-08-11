@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EMPN0990_Scenerio2.props" />
+</Project>

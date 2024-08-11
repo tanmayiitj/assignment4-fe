@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\EMPN0990_Scenerio2.props" />
+</Project>
